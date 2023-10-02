@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "penguin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ProfFan/penguin.git",
+      "state" : {
+        "branch" : "dev/make-compile",
+        "revision" : "44c494dfb5150e0fcc8bf2819c235474178e1872"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser",
+      "state" : {
+        "revision" : "8f4d2753f0e4778c76d5f05ad16c74f707390531",
+        "version" : "1.2.3"
+      }
+    },
+    {
+      "identity" : "swift-benchmark",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/google/swift-benchmark.git",
+      "state" : {
+        "revision" : "8163295f6fe82356b0bcf8e1ab991645de17d096",
+        "version" : "0.1.2"
+      }
+    }
+  ],
+  "version" : 2
+}

@@ -1,0 +1,18 @@
+{
+    "lldb.library": "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2023-09-26-a.xctoolchain/System/Library/PrivateFrameworks/LLDB.framework/Versions/A/LLDB",
+    "lldb.launch.expressions": "native",
+    "swift.buildArguments": [
+        "-Xswiftc",
+        "-Xfrontend",
+        "-Xswiftc",
+        "-enable-experimental-forward-mode-differentiation",
+        // "-Xswiftc",
+        // "-Xfrontend",
+        // "-Xswiftc",
+        // "-disable-round-trip-debug-types",
+        // "-Xswiftc",
+        // "-Xfrontend",
+        // "-Xswiftc",
+        // "-validate-tbd-against-ir=none"
+    ]
+}
